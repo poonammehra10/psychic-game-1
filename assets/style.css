@@ -1,0 +1,74 @@
+body {
+    font-family: 'Amita';
+    font-size: 19px;
+    line-height: 34px;
+    background-color: rgba(244, 244, 245, 0.89);
+    color: red;
+    }
+        
+    .container {
+    clear: both;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 960px;
+    }
+        
+    h1,
+    h2,
+    h3 {
+    font-family: 'Amita';
+    font-weight: 700;
+    }
+        
+    h1 {
+    padding-bottom: 20px;
+    padding-left:20px;
+    font-size: 30px;
+    line-height: 49px;
+    color: #941010;
+    }
+        
+    h2,
+    h3 {
+    font-size: 22px;
+    }
+    
+        
+        /*header*/
+    .container {
+    padding:0;
+    margin:0;
+    
+    }
+        
+    #banner {
+    height: 100px;
+    width:100%;
+    }
+        
+    .head-image {
+    widows: 200px;;
+    height:200px;
+    }
+        
+        
+        /*Main*/
+    .main-container {
+    margin-top:40px;
+    padding:40px;
+    }
+        
+    .side-image {
+    margin-top: -40px;
+    height: 264px;
+    }
+        
+        /*footer*/
+        
+    footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: red;
+    text-align: center;
+    }
